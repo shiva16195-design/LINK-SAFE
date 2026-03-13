@@ -70,7 +70,7 @@ export default function App() {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <Shield className="text-white w-5 h-5" />
             </div>
-            <span className="font-bold text-xl tracking-tight">LinkSafe</span>
+            <span className="font-bold text-xl tracking-tight">GuardLink</span>
           </div>
           <div className="text-xs font-medium text-slate-500 uppercase tracking-wider">
             AI-Powered Security
@@ -249,7 +249,7 @@ export default function App() {
 
       <footer className="max-w-5xl mx-auto px-4 py-12 border-t border-slate-200 text-center">
         <p className="text-slate-400 text-sm">
-          &copy; 2026 LinkSafe. Powered by Gemini AI. Always use caution when downloading files from the internet.
+          &copy; 2026 GuardLink. Powered by Gemini AI. Always use caution when downloading files from the internet.
         </p>
       </footer>
     </div>

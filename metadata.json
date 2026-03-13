@@ -1,5 +1,5 @@
 {
-  "name": "LinkSafe",
+  "name": "GuardLink",
   "description": "AI-powered URL and download safety checker to verify if links are safe for files and software.",
   "requestFramePermissions": []
 }
